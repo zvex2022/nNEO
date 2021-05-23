@@ -1,4 +1,4 @@
-import block_functions.py
+from block_functions.py import amount, exists_and_confirmed, get_prev, get_link, get_rep, account_to_id
 
 flag = False
 metablock =  <burn send id>
